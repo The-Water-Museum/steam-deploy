@@ -1,4 +1,4 @@
-FROM The-Water-Museum/steamcmd
+FROM ghcr.io/the-water-museum/steamcmd:v1
 
 ENV STEAM_CMD="$STEAMCMDDIR/steamcmd.sh"
 

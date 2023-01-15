@@ -1,5 +1,5 @@
 name: 'Steam - Deploy'
-author: Webber Takken <webber@takken.io>
+author: Water Museum Engineering <engineering@watermuseum.co>
 description: 'Deploy game builds to Steam using the SteamSDK.'
 inputs:
   username:
