@@ -1,4 +1,4 @@
-FROM cm2network/steamcmd
+FROM The-Water-Museum/steamcmd
 
 ENV STEAM_CMD="$STEAMCMDDIR/steamcmd.sh"
 
